@@ -10,6 +10,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PremSaiArroju/LeetCode/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PremSaiArroju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0948-sort-an-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0948-sort-an-array) |
 # Sorting
 |  |
@@ -40,3 +41,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0948-sort-an-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PremSaiArroju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
