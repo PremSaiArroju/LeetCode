@@ -5,6 +5,7 @@ Leet Code Problems
 # String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/PremSaiArroju/LeetCode/tree/master/0742-to-lower-case) |
 | [3396-valid-word](https://github.com/PremSaiArroju/LeetCode/tree/master/3396-valid-word) |
 # Array
 |  |
