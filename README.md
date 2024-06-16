@@ -10,6 +10,7 @@ Leet Code Problems
 # Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PremSaiArroju/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/PremSaiArroju/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremSaiArroju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0948-sort-an-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0948-sort-an-array) |
@@ -45,4 +46,9 @@ Leet Code Problems
 # Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PremSaiArroju/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremSaiArroju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/PremSaiArroju/LeetCode/tree/master/0055-jump-game) |
