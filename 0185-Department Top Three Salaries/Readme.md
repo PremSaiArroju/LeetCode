@@ -1,15 +1,43 @@
-```html
-<h2><a href="https://leetcode.com/problems/high-earners">1. High Earners</a></h2><h3>Medium</h3><hr><p>A company's executives are interested in seeing who earns the most money in each of the company's departments. A high earner in a department is an employee who has a salary in the top three unique salaries for that department.</p>
+Table: Employee
 
-<p>Write a solution to find the employees who are high earners in each of the departments.</p>
++--------------+---------+
+| Column Name  | Type    |
++--------------+---------+
+| id           | int     |
+| name         | varchar |
+| salary       | int     |
+| departmentId | int     |
++--------------+---------+
+id is the primary key (column with unique values) for this table.
+departmentId is a foreign key (reference column) of the ID from the Department table.
+Each row of this table indicates the ID, name, and salary of an employee. It also contains the ID of their department.
+ 
 
-<p>Return the result table in any order.</p>
+Table: Department
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| id          | int     |
+| name        | varchar |
++-------------+---------+
+id is the primary key (column with unique values) for this table.
+Each row of this table indicates the ID of a department and its name.
+ 
 
-<pre>
-<strong>Input:</strong> 
+A company's executives are interested in seeing who earns the most money in each of the company's departments. A high earner in a department is an employee who has a salary in the top three unique salaries for that department.
+
+Write a solution to find the employees who are high earners in each of the departments.
+
+Return the result table in any order.
+
+The result format is in the following example.
+
+ 
+
+Example 1:
+
+Input: 
 Employee table:
 +----+-------+--------+--------------+
 | id | name  | salary | departmentId |
@@ -29,7 +57,7 @@ Department table:
 | 1  | IT    |
 | 2  | Sales |
 +----+-------+
-<strong>Output:</strong> 
+Output: 
 +------------+----------+--------+
 | Department | Employee | Salary |
 +------------+----------+--------+
@@ -40,35 +68,13 @@ Department table:
 | Sales      | Henry    | 80000  |
 | Sales      | Sam      | 60000  |
 +------------+----------+--------+
-</pre>
+Explanation: 
+In the IT department:
+- Max earns the highest unique salary
+- Both Randy and Joe earn the second-highest unique salary
+- Will earns the third-highest unique salary
 
-<p><strong>Explanation:</strong></p>
-<p>In the IT department:</p>
-<ul>
-<li>Max earns the highest unique salary</li>
-<li>Both Randy and Joe earn the second-highest unique salary</li>
-<li>Will earns the third-highest unique salary</li>
-</ul>
-<p>In the Sales department:</p>
-<ul>
-<li>Henry earns the highest salary</li>
-<li>Sam earns the second-highest salary</li>
-<li>There is no third-highest salary as there are only two employees</li>
-</ul>
-
-<p>&nbsp;</p>
-<p><strong>Solution:</strong></p>
-<pre>
-SELECT d.name as Department, e.name as Employee, e.salary as Salary
-FROM Employee e
-JOIN Department d ON e.departmentId = d.id
-WHERE e.salary IN (
-    SELECT DISTINCT salary 
-    FROM Employee e2 
-    WHERE e2.departmentId = e.departmentId
-    ORDER BY salary DESC
-    LIMIT 3
-)
-ORDER BY d.name, e.salary DESC;
-</pre>
-```
+In the Sales department:
+- Henry earns the highest salary
+- Sam earns the second-highest salary
+- There is no third-highest salary as there are only two employees
