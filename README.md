@@ -72,6 +72,7 @@ Leet Code Problems
 | [0027-remove-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +83,17 @@ Leet Code Problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
