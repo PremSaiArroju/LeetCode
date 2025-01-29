@@ -62,6 +62,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PremSaiArroju/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Leet Code Problems
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -119,4 +121,8 @@ Leet Code Problems
 |  |
 | ------- |
 | [0274-h-index](https://github.com/PremSaiArroju/LeetCode/tree/master/0274-h-index) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
