@@ -78,6 +78,7 @@ Leet Code Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremSaiArroju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/PremSaiArroju/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/PremSaiArroju/LeetCode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
@@ -127,4 +128,8 @@ Leet Code Problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/PremSaiArroju/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/PremSaiArroju/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
