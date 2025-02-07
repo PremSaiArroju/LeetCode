@@ -71,6 +71,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/PremSaiArroju/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PremSaiArroju/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/PremSaiArroju/LeetCode/tree/master/0068-text-justification) |
@@ -98,6 +99,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/PremSaiArroju/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -138,4 +140,8 @@ Leet Code Problems
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/PremSaiArroju/LeetCode/tree/master/0068-text-justification) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/PremSaiArroju/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
