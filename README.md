@@ -97,6 +97,7 @@ Leet Code Problems
 | [0088-merge-sorted-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/PremSaiArroju/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremSaiArroju/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/PremSaiArroju/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Leet Code Problems
 | [0055-jump-game](https://github.com/PremSaiArroju/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremSaiArroju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/PremSaiArroju/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Leet Code Problems
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0068-text-justification](https://github.com/PremSaiArroju/LeetCode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/PremSaiArroju/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/PremSaiArroju/LeetCode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
