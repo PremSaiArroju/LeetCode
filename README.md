@@ -185,4 +185,8 @@ Leet Code Problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremSaiArroju/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [1670-patients-with-a-condition](https://github.com/PremSaiArroju/LeetCode/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
