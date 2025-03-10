@@ -188,5 +188,6 @@ Leet Code Problems
 ## Database
 |  |
 | ------- |
+| [1480-movie-rating](https://github.com/PremSaiArroju/LeetCode/tree/master/1480-movie-rating) |
 | [1670-patients-with-a-condition](https://github.com/PremSaiArroju/LeetCode/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
