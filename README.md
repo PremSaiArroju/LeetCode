@@ -188,6 +188,7 @@ Leet Code Problems
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/PremSaiArroju/LeetCode/tree/master/0585-investments-in-2016) |
 | [1480-movie-rating](https://github.com/PremSaiArroju/LeetCode/tree/master/1480-movie-rating) |
 | [1670-patients-with-a-condition](https://github.com/PremSaiArroju/LeetCode/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
