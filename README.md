@@ -189,6 +189,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0585-investments-in-2016](https://github.com/PremSaiArroju/LeetCode/tree/master/0585-investments-in-2016) |
+| [1452-restaurant-growth](https://github.com/PremSaiArroju/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/PremSaiArroju/LeetCode/tree/master/1480-movie-rating) |
 | [1670-patients-with-a-condition](https://github.com/PremSaiArroju/LeetCode/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
