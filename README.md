@@ -64,6 +64,7 @@ Leet Code Problems
 | [0002-add-two-numbers](https://github.com/PremSaiArroju/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/PremSaiArroju/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/PremSaiArroju/LeetCode/tree/master/0066-plus-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
@@ -78,6 +79,7 @@ Leet Code Problems
 | [0042-trapping-rain-water](https://github.com/PremSaiArroju/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PremSaiArroju/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/PremSaiArroju/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/PremSaiArroju/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0088-merge-sorted-array) |
