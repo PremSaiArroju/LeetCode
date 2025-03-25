@@ -65,6 +65,7 @@ Leet Code Problems
 | [0012-integer-to-roman](https://github.com/PremSaiArroju/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PremSaiArroju/LeetCode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/PremSaiArroju/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
