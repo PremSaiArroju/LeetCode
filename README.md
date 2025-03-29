@@ -58,6 +58,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PremSaiArroju/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/PremSaiArroju/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -98,6 +99,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/PremSaiArroju/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
