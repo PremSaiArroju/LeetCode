@@ -59,6 +59,7 @@ Leet Code Problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/PremSaiArroju/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/PremSaiArroju/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
