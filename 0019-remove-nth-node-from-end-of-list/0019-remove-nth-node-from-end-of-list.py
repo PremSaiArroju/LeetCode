@@ -3,17 +3,17 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def removeNthFromEnd(self, head, n):
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
         dummy = ListNode(0, head)
-        left = dummy
-        right = head
-        while n > 0 and right:
-            right = right.next
-            n -= 1
-        while right:
-            left = left.next
-            right = right.next
-        # delete
-        left.next = left.next.next
+        #dummy node is a temporary node created at the beginning of a linked list to simplify edge cases.
+        #(dummy node) → (original head node) → (second node) → (third node) → ... → None
+        slow = fast = dummy
+        for _ in range(n+1):
+            fast = fast.next
+        while fast:
+            slow = slow.next
+            fast = fast.next
+        
+        slow.next = slow.next.next
         return dummy.next
