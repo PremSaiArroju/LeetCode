@@ -61,6 +61,7 @@ Leet Code Problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/PremSaiArroju/LeetCode/tree/master/0141-linked-list-cycle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Leet Code Problems
 | [0066-plus-one](https://github.com/PremSaiArroju/LeetCode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/PremSaiArroju/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
