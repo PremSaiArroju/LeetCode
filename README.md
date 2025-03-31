@@ -101,6 +101,7 @@ Leet Code Problems
 | [0238-product-of-array-except-self](https://github.com/PremSaiArroju/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/PremSaiArroju/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2681-put-marbles-in-bags](https://github.com/PremSaiArroju/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Leet Code Problems
 | [0088-merge-sorted-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/PremSaiArroju/LeetCode/tree/master/0274-h-index) |
+| [2681-put-marbles-in-bags](https://github.com/PremSaiArroju/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Leet Code Problems
 | [0055-jump-game](https://github.com/PremSaiArroju/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/PremSaiArroju/LeetCode/tree/master/0135-candy) |
+| [2681-put-marbles-in-bags](https://github.com/PremSaiArroju/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Counting Sort
 |  |
 | ------- |
@@ -220,4 +223,8 @@ Leet Code Problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/PremSaiArroju/LeetCode/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
