@@ -83,6 +83,7 @@ Leet Code Problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PremSaiArroju/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/PremSaiArroju/LeetCode/tree/master/0036-valid-sudoku) |
@@ -107,6 +108,7 @@ Leet Code Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PremSaiArroju/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0027-remove-element) |
@@ -156,6 +158,7 @@ Leet Code Problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PremSaiArroju/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PremSaiArroju/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
