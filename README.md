@@ -101,6 +101,7 @@ Leet Code Problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/PremSaiArroju/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremSaiArroju/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PremSaiArroju/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/PremSaiArroju/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -181,6 +182,7 @@ Leet Code Problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PremSaiArroju/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Simulation
 |  |
@@ -212,6 +214,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremSaiArroju/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Database
 |  |
 | ------- |
@@ -235,4 +238,8 @@ Leet Code Problems
 |  |
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/PremSaiArroju/LeetCode/tree/master/2681-put-marbles-in-bags) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
