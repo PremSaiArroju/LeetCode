@@ -171,6 +171,7 @@ Leet Code Problems
 | [0012-integer-to-roman](https://github.com/PremSaiArroju/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0068-text-justification](https://github.com/PremSaiArroju/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/PremSaiArroju/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/PremSaiArroju/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PremSaiArroju/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/PremSaiArroju/LeetCode/tree/master/0392-is-subsequence) |
@@ -190,6 +191,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PremSaiArroju/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/PremSaiArroju/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PremSaiArroju/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
