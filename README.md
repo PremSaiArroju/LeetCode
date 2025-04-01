@@ -71,6 +71,7 @@ Leet Code Problems
 | [0012-integer-to-roman](https://github.com/PremSaiArroju/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PremSaiArroju/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PremSaiArroju/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/PremSaiArroju/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -96,6 +97,7 @@ Leet Code Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremSaiArroju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/PremSaiArroju/LeetCode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PremSaiArroju/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremSaiArroju/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PremSaiArroju/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -188,6 +190,7 @@ Leet Code Problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PremSaiArroju/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PremSaiArroju/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
