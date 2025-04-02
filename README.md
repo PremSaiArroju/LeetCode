@@ -137,6 +137,7 @@ Leet Code Problems
 | [0036-valid-sudoku](https://github.com/PremSaiArroju/LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/PremSaiArroju/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/PremSaiArroju/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
@@ -178,6 +179,7 @@ Leet Code Problems
 | [0071-simplify-path](https://github.com/PremSaiArroju/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/PremSaiArroju/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PremSaiArroju/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/PremSaiArroju/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/PremSaiArroju/LeetCode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
