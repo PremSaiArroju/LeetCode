@@ -180,6 +180,7 @@ Leet Code Problems
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/PremSaiArroju/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/PremSaiArroju/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0068-text-justification](https://github.com/PremSaiArroju/LeetCode/tree/master/0068-text-justification) |
