@@ -100,6 +100,7 @@ Leet Code Problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremSaiArroju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/PremSaiArroju/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/PremSaiArroju/LeetCode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PremSaiArroju/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremSaiArroju/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,6 +142,7 @@ Leet Code Problems
 | [0012-integer-to-roman](https://github.com/PremSaiArroju/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/PremSaiArroju/LeetCode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/PremSaiArroju/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PremSaiArroju/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0202-happy-number) |
@@ -256,4 +258,8 @@ Leet Code Problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PremSaiArroju/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
