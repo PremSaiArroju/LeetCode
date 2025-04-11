@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
+        #BFS Approach(Level Order)
         if not root:
             return 0
         
