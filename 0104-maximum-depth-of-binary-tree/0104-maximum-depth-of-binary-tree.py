@@ -9,14 +9,18 @@ class Solution:
         #BFS Approach(Level Order)
         if not root:
             return 0
-        
-        stack = [(root,1)]
-        max_depth = 0
-        while stack:
-            node, depth = stack.pop()
-            if node:
-                max_depth = max(max_depth, depth)
-                stack.append((node.left, depth + 1))
-                stack.append((node.right, depth + 1))
 
-        return max_depth
+        queue = deque([root])
+        depth = 0
+
+        while queue:
+            level_size = len(queue)  # number of nodes at current level
+            for _ in range(level_size):
+                node = queue.popleft()
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+            depth += 1
+
+        return depth
