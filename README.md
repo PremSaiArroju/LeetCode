@@ -239,6 +239,7 @@ Leet Code Problems
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremSaiArroju/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Database
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Leet Code Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremSaiArroju/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -274,6 +276,7 @@ Leet Code Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremSaiArroju/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -305,4 +308,8 @@ Leet Code Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
