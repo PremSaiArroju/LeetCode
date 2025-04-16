@@ -260,6 +260,7 @@ Leet Code Problems
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Leet Code Problems
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -300,6 +302,7 @@ Leet Code Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -308,6 +311,7 @@ Leet Code Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
