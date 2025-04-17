@@ -62,6 +62,7 @@ Leet Code Problems
 | [0021-merge-two-sorted-lists](https://github.com/PremSaiArroju/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PremSaiArroju/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/PremSaiArroju/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -258,6 +259,7 @@ Leet Code Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremSaiArroju/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PremSaiArroju/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -277,6 +279,7 @@ Leet Code Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremSaiArroju/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PremSaiArroju/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -301,6 +304,7 @@ Leet Code Problems
 | [0101-symmetric-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PremSaiArroju/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -310,6 +314,7 @@ Leet Code Problems
 | [0101-symmetric-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PremSaiArroju/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bit Manipulation
