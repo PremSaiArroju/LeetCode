@@ -77,6 +77,7 @@ Leet Code Problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/PremSaiArroju/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/PremSaiArroju/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -113,6 +114,7 @@ Leet Code Problems
 | [0219-contains-duplicate-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PremSaiArroju/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/PremSaiArroju/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/PremSaiArroju/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/PremSaiArroju/LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -140,6 +142,7 @@ Leet Code Problems
 | [0015-3sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/PremSaiArroju/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/PremSaiArroju/LeetCode/tree/master/0274-h-index) |
 | [2681-put-marbles-in-bags](https://github.com/PremSaiArroju/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Hash Table
@@ -156,6 +159,7 @@ Leet Code Problems
 | [0202-happy-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PremSaiArroju/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/PremSaiArroju/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/PremSaiArroju/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -241,6 +245,7 @@ Leet Code Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremSaiArroju/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -321,4 +326,5 @@ Leet Code Problems
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
