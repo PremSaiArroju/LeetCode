@@ -249,6 +249,7 @@ Leet Code Problems
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/PremSaiArroju/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0585-investments-in-2016](https://github.com/PremSaiArroju/LeetCode/tree/master/0585-investments-in-2016) |
 | [1452-restaurant-growth](https://github.com/PremSaiArroju/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/PremSaiArroju/LeetCode/tree/master/1480-movie-rating) |
