@@ -170,6 +170,7 @@ Leet Code Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremSaiArroju/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremSaiArroju/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/PremSaiArroju/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/PremSaiArroju/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -337,6 +338,7 @@ Leet Code Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/PremSaiArroju/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
