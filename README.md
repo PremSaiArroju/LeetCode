@@ -78,6 +78,7 @@ Leet Code Problems
 | [0172-factorial-trailing-zeroes](https://github.com/PremSaiArroju/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/PremSaiArroju/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0504-base-7](https://github.com/PremSaiArroju/LeetCode/tree/master/0504-base-7) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PremSaiArroju/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -87,6 +88,7 @@ Leet Code Problems
 | [0002-add-two-numbers](https://github.com/PremSaiArroju/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PremSaiArroju/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/PremSaiArroju/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -341,4 +343,5 @@ Leet Code Problems
 | [0191-number-of-1-bits](https://github.com/PremSaiArroju/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/PremSaiArroju/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
