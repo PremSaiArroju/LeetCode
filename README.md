@@ -77,6 +77,7 @@ Leet Code Problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/PremSaiArroju/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/PremSaiArroju/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/PremSaiArroju/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/PremSaiArroju/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PremSaiArroju/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -89,6 +90,7 @@ Leet Code Problems
 | [0002-add-two-numbers](https://github.com/PremSaiArroju/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PremSaiArroju/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/PremSaiArroju/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/PremSaiArroju/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PremSaiArroju/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -343,6 +345,7 @@ Leet Code Problems
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PremSaiArroju/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/PremSaiArroju/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/PremSaiArroju/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/PremSaiArroju/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PremSaiArroju/LeetCode/tree/master/0371-sum-of-two-integers) |
