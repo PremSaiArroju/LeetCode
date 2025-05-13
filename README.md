@@ -124,6 +124,7 @@ Leet Code Problems
 | [0274-h-index](https://github.com/PremSaiArroju/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/PremSaiArroju/LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/PremSaiArroju/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2681-put-marbles-in-bags](https://github.com/PremSaiArroju/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ Leet Code Problems
 | [0268-missing-number](https://github.com/PremSaiArroju/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/PremSaiArroju/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PremSaiArroju/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/PremSaiArroju/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Leet Code Problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PremSaiArroju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PremSaiArroju/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/PremSaiArroju/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
 | ------- |
